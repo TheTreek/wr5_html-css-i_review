@@ -1,0 +1,23 @@
+*{
+ box-sizing: border-box;   
+}body{
+    color:green;
+}
+p{
+    color: orange;
+}
+p{
+    color:blue;
+}
+#first-p{
+    /* Code goes here */
+    height:50vh;
+    width: 1000px;
+    background-color:yellow;
+}
+.favorite{
+    /* Code goes here */
+}
+main section p {
+    /* Code goes here */
+}
